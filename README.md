@@ -16,7 +16,7 @@ Go to the `src` folder — there you can see all the **practice work** I’ve do
 
 ## 🛠 What You'll Find Inside
 
-- Each Java file in `src/` demonstrates a **core OOP concept**, like inheritance, abstraction, interfaces, etc.
+- Each Java file in `src/` demonstrates a **core OOP concept**, like inheritance, abstraction, interfaces, etc.     
 - This is the **foundation** of my **LLD journey in Java** — and helped me bridge the gap from C++ to Java smoothly.
 
 ---
