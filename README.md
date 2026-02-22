@@ -24,6 +24,6 @@ Go to the `src` folder — there you can see all the **practice work** I’ve do
 ## 🧾 Note
 
 This is not a production-level or fully polished codebase.  
-It's **just the amount of practice** I personally needed to feel ready. 💡
+It's **just the amount of practice** I personally needed to feel ready making me ready for Low Level Design in Java. 💡
 
 ---
